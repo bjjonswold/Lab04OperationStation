@@ -1,4 +1,6 @@
-"""Questions:
+"""
+
+Questions:
 1. What is howManyEven() doing? What is the output for howManyEven(9)?
     A. It turns (-) numbers to (+). Then it counts how many even numbers there are between the input number and 0 (inclusive)
         The output for howManyEven(9) is 5
