@@ -12,6 +12,10 @@ Questions:
     A. n = 3 // 4
 """
 
+def testing():
+    print('test1')
+
+testing()
 
 # input: a number
 # output: the number of even numbers between that number and 0 (including 0 and the number)
